@@ -36,4 +36,12 @@ Esta instalación se debe realizar en la máquina `host`, en particular, este ma
 
 ### Instalación de OPNSense
 
-Para realizar la instalación de OPNSense, sigue las instrucciones en [OPNSense Installation](./openSense/opnSenseInstallation.md).
+Para realizar la instalación de OPNSense, sigue las instrucciones en [OPNSense Installation](./opnSense/opnSenseInstallation.md).
+
+### Configuración de OPNSense
+
+Para realizar la configuración de OPNSense, sigue las instrucciones en [OPNSense Configuration](./opnSense/opnSenseConfiguration.md).
+
+### Instalación de Kali Linux y Kali-purple
+
+Para realizar la instalación de Kali Linux, sigue las instrucciones en [Kali Linux Installation](./kaliLinux/kaliLinuxInstallation.md).
