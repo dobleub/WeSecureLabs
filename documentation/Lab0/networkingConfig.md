@@ -46,6 +46,10 @@ Para realizar la configuración de OPNSense, sigue las instrucciones en [OPNSens
 
 Para realizar la instalación de Kali Linux, incluyendo Kali-Purple, sigue las instrucciones en [Kali Linux Installation](./kaliLinux/kaliLinuxInstallation.md).
 
+### Configuración de Kali Linux y Kali-purple
+
+Para realizar la configuración de Kali Linux y Kali-purple, sigue las instrucciones en [Kali Linux Configuration](./kaliLinux/kaliLinuxConfiguration.md).
+
 ### Instalación de Metasploitable2
 
 Para realizar la instalación de Metasploitable2, sigue las instrucciones en [Metasploitable Installation](./metasploitable/metasploitableInstallation.md).
