@@ -2,7 +2,7 @@
 
 ## Entregable
 
-- Fecha de entrega: 2021-09-25 23:59:59
+- Fecha de entrega: `2024-08-12`
 - Tipo de documento: `Markdown`
 - Archivo: [networkingConfiguration.md](./documentation/Lab0/networkingConfig.md)
 

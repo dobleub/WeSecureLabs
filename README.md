@@ -42,3 +42,9 @@ Este informe será revisado por los `padrinos` de la comunidad, y deberá conten
 ### Informe gerencial
 
 Este informe será revisado por una o varias personas externas a la comunidad y este informe tiene la particularidad que debe ser redactado para que sea comprendido por personas que, aunque están relacionadas con el área de tecnología, sus conocimientos no son técnicos sino administrativos.
+
+## Entregable - Informe técnico
+
+- Fecha de entrega: `2024-08-12`
+- Tipo de documento: `Markdown`
+- Archivo: [networkingConfiguration.md](./documentation/Lab0/networkingConfig.md)
