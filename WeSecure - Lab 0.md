@@ -1,5 +1,13 @@
 # WeSecure - Lab 0
 
+## Entregable
+
+- Fecha de entrega: 2021-09-25 23:59:59
+- Tipo de documento: `Markdown`
+- Archivo: [networkingConfiguration.md](./documentation/Lab0/networkingConfig.md)
+
+## Laboratorio de pruebas
+
 Bienvenidos a su primer reto, cuyo fin es crear un laboratorio de pruebas para los retos que vendrán en adelante. En este primer reto, vamos a configurar una red de 3 computadores y un `firewall` dentro del `hypervisor Virtualbox`. El esquema de red es el siguiente:
 
 ![Diagrama de red](./imagenes/diagramared.png)
